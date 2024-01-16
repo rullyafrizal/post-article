@@ -16,3 +16,10 @@
 7. Run application with command `go run cmd/main.go`
 8. Open `index.html` with your browser, make sure you have internet connection
 9. Ping me if you have any trouble when running locally using above steps
+
+## Tech Stacks
+- Golang 1.20
+- Go Fiber
+- MySQL 8
+- Viper Env
+- GORM
